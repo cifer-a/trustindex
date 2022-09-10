@@ -1,0 +1,2 @@
+# trustindex
+A decisionmaking system
