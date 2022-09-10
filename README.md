@@ -50,7 +50,7 @@ Perhaps employees managed by administrator of pool Y decide to send 80% of the p
 The points thus gather where decisionmaking power seems to be - trust is invested with intended return of best possible decisions.
 
 ## ## Applications ## ##
-- Select individuals
+- Select individuals as empowered decisionmakers / to fulfill roles
 - Offer up a range of decisions, where more options can be added by (permitted contributors), that individuals can vote on
 - Administrators are not required nor limited to be human: A church, an organization, a nation, a friend-family or even a car can administrate points and thus be part of the decisionmaking process.
 - Self-ownership for companies/organizations, no longer needing be stock slaves or possessed by an individual with personal interests nor a group of people claiming to not seek profit - despite the profit being to a group of people, society, a nation, development of technology to advantage of a limited group of people at the expense of many beings whom do not benefit etc.
